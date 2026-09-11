@@ -4,7 +4,7 @@
         <title>Zotly</title>
         <item>
             <title>1.0.191</title>
-            <pubDate>Fri, 11 Sep 2026 13:19:04 -0400</pubDate>
+            <pubDate>Fri, 11 Sep 2026 13:24:22 -0400</pubDate>
             <link>https://github.com/kirankumarmanku/ZotlyApp-releases</link>
             <sparkle:version>191</sparkle:version>
             <sparkle:shortVersionString>1.0.191</sparkle:shortVersionString>
@@ -17,13 +17,13 @@
         </item>
         <item>
             <title>1.0.187</title>
-            <pubDate>Fri, 11 Sep 2026 13:19:06 -0400</pubDate>
+            <pubDate>Fri, 11 Sep 2026 13:24:23 -0400</pubDate>
             <link>https://github.com/kirankumarmanku/ZotlyApp-releases</link>
             <sparkle:version>187</sparkle:version>
             <sparkle:shortVersionString>1.0.187</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.191/Zotly-1.0.187.dmg" length="3023497" type="application/octet-stream" sparkle:edSignature="V1TN9JSVkDa6UdOFi5QgjiX3ndPqT3U673PMelK9TwundOV1pBgVXuAmxo9JU18Y7rSyj1mQ0dWpK+uJfR7wBg=="/>
+            <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.187/Zotly-1.0.187.dmg" length="3023497" type="application/octet-stream" sparkle:edSignature="V1TN9JSVkDa6UdOFi5QgjiX3ndPqT3U673PMelK9TwundOV1pBgVXuAmxo9JU18Y7rSyj1mQ0dWpK+uJfR7wBg=="/>
         </item>
     </channel>
 </rss>
