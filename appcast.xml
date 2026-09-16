@@ -3,39 +3,39 @@
     <channel>
         <title>Zotly</title>
         <item>
+            <title>1.0.199</title>
+            <pubDate>Wed, 16 Sep 2026 09:14:52 -0400</pubDate>
+            <link>https://github.com/kirankumarmanku/ZotlyApp-releases</link>
+            <sparkle:version>199</sparkle:version>
+            <sparkle:shortVersionString>1.0.199</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.199/Zotly-1.0.199.dmg" length="3038161" type="application/octet-stream" sparkle:edSignature="pqGJRDuxDLqmVIp8rJ9A2ffq0ycbPqQVMb+MSokFv5ZaioczRulMsSmM0mcHBHzrWXMtz7fMPgF8pKRR0OqfAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.199/Zotly199-197.delta" sparkle:deltaFrom="197" length="212594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9Ipc6IcNBPwfkt7i+6otQmuZ1KXInj5rdtA6p8f6io1bQB+MYLQf3/gv82dX1PajE0SZXoSfroKTRR3rpyZSAQ=="/>
+                <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.199/Zotly199-196.delta" sparkle:deltaFrom="196" length="234638" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QfMoRDES1jEX4AUqBVf3tLfw/4FV+GbaWrzfPs6/Df3L3t3KdWiMDw7Djo2Dqln1EAF7B9SaXwObkc1VUjSiCQ=="/>
+                <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.199/Zotly199-195.delta" sparkle:deltaFrom="195" length="235258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TXqmc5Kj6Ah+snGhyKQOQhcY+wRNO4pIdQPyzQ4tw1A6jFtSNZ0ZzgGKT0YDDVg+lAgaRMmnYZuhvuOAQuGPAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.197</title>
-            <pubDate>Sun, 13 Sep 2026 14:23:33 -0400</pubDate>
+            <pubDate>Wed, 16 Sep 2026 09:14:54 -0400</pubDate>
             <link>https://github.com/kirankumarmanku/ZotlyApp-releases</link>
             <sparkle:version>197</sparkle:version>
             <sparkle:shortVersionString>1.0.197</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.197/Zotly-1.0.197.dmg" length="3031357" type="application/octet-stream" sparkle:edSignature="JDaIGGgR+R8V8rtHMSUU134G3U57ff8jihmwDXbBxm0pzYXaUfPqt0FHLBvlBCVclh9NfT7PeF3Fa07c8NrTDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.197/Zotly197-196.delta" sparkle:deltaFrom="196" length="160930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="12o3Ex0eo4ZDXgEQl+jujaXpG3z+Cg/9z9DiCwEsaXFowXf+Kuzcw928BwDi+aNZgltrhheF1MCQV9Q6DIWnDA=="/>
-                <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.197/Zotly197-195.delta" sparkle:deltaFrom="195" length="160034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t7VfWm1mqZHCYurQrSvP84ovtuHrXtseQgretE30QP/DKzP7JdcRAZtJ+sbs9YsdtHLtjMb8tLdATFI1VAEzBg=="/>
-                <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.197/Zotly197-191.delta" sparkle:deltaFrom="191" length="174866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DhaUC4d+5dT9I1JH50Nxa1h3ad/TSw/87poi4VPJBbGiX2DavPH79UBIeu7nur36ylnjf60RuKArobsw/8a/BA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.196</title>
-            <pubDate>Sun, 13 Sep 2026 14:23:34 -0400</pubDate>
+            <pubDate>Wed, 16 Sep 2026 09:14:55 -0400</pubDate>
             <link>https://github.com/kirankumarmanku/ZotlyApp-releases</link>
             <sparkle:version>196</sparkle:version>
             <sparkle:shortVersionString>1.0.196</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.196/Zotly-1.0.196.dmg" length="3024469" type="application/octet-stream" sparkle:edSignature="W+eIDfS+Ws4sr1Exn4S5B2w7dWNIpJbRCp+BFtBEeoAxg+Pug7+LDIRID/g4OI1EIm9U/LPZrFnFLrvldtAzBg=="/>
-        </item>
-        <item>
-            <title>1.0.195</title>
-            <pubDate>Sun, 13 Sep 2026 14:23:35 -0400</pubDate>
-            <link>https://github.com/kirankumarmanku/ZotlyApp-releases</link>
-            <sparkle:version>195</sparkle:version>
-            <sparkle:shortVersionString>1.0.195</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kirankumarmanku/ZotlyApp-releases/releases/download/v1.0.195/Zotly-1.0.195.dmg" length="3024128" type="application/octet-stream" sparkle:edSignature="a/lZNZx7nXi/Xb1OujCzZPp7G7KhuGNoidVlBhfDjh1gGKcc/zG8q9Pdq9ZhzDuzdjqMF700mwN68vrt+FP5Cw=="/>
         </item>
     </channel>
 </rss>
